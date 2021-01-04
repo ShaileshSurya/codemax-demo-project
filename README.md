@@ -1,6 +1,6 @@
 # Mail Service Rest API. 
 
-Coding Test. 
+Send an Email by rest API where to, BCC and CC will be provided via api-payload. 
 
 1. Use design pattern
     > Used design pattern factory and strategy. Made sure to code to interface and not the concreate classes. 
